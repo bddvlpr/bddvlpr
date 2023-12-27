@@ -7,4 +7,4 @@ There are the only skill I find worth mentioning because I like them. I may know
 ![Tools](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,hibernate,prisma&theme=dark)
 
 ### Tools & DevOps stuff
-![Tools](https://skillicons.dev/icons?i=bash,aws,docker,kubernetes,gcp,githubactions,linux,neovim,nginx,vscode,cloudflare,workers,vercel&theme=dark)
+![Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,cloudflare,workers,vercel,bash,githubactions,linux,neovim,vscode&theme=dark)
