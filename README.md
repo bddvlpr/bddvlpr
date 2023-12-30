@@ -17,4 +17,4 @@ There are the only skill I find worth mentioning because I like them. I may know
 ![Tools & DevOps icons](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,cloudflare,workers,vercel,bash,githubactions,linux,neovim,vscode&theme=dark)
 
 ## 📫 Contact
-Feel free to contact me on Discord at [@bddvlpr](https://discord.com/users/932859041368125532) or use my e-mail [contact@bddvlpr.com](mailto:contact@bddvlpr.com) although responses might be slow.
+Feel free to contact me on Discord at [@ldgtl](https://discord.com/users/932859041368125532) or use my e-mail [contact@bddvlpr.com](mailto:contact@bddvlpr.com) although responses might be slow.
