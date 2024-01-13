@@ -14,7 +14,7 @@ There are the only skill I find worth mentioning because I like them. I may know
 ![Databases & ORMs icons](https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,hibernate,prisma&theme=dark)
 
 ### Tools & DevOps stuff
-![Tools & DevOps icons](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,cloudflare,workers,vercel,bash,githubactions,linux,neovim,vscode&theme=dark)
+![Tools & DevOps icons](https://skillicons.dev/icons?i=docker,kubernetes,nix,terraform,aws,gcp,cloudflare,workers,vercel,bash,githubactions,linux,neovim,vscode&theme=dark)
 
 ## 📫 Contact
 Feel free to contact me on Discord at [@ldgtl](https://discord.com/users/932859041368125532) or use my e-mail [contact@bddvlpr.com](mailto:contact@bddvlpr.com) although responses might be slow.
