@@ -18,3 +18,14 @@ There are the only skill I find worth mentioning because I like them. I may know
 
 ## 📫 Contact
 Feel free to contact me on Discord at [@ldgtl](https://discord.com/users/932859041368125532) or use my e-mail [contact@bddvlpr.com](mailto:contact@bddvlpr.com) although responses might be slow.
+
+## ⭐ Stats
+<details>
+  <summary>
+    Click to show / hide GitHub stats.
+  </summary>
+
+  ![Modal 1](https://github-readme-stats.vercel.app/api?username=bddvlpr&theme=transparent&show_icons=true&hide_border=true&count_private=true)
+  ![Modal 2](https://github-readme-streak-stats.herokuapp.com/?user=bddvlpr&theme=transparent&hide_border=true)
+  ![Modal 3](https://github-readme-stats.vercel.app/api/top-langs/?username=bddvlpr&theme=transparent&show_icons=true&hide_border=true&layout=compact)
+</details>
