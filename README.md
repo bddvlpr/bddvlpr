@@ -1,5 +1,6 @@
 ## ✨ About
 - Interested in high-availability structures, Nix and cryptography.
+- SvelteKit enjoyer.
 - Virtual Reality & electronics hobbyist.
 - FOSS & Linux enthusiast.
 - Consumes battery acid 24/7 while listening to music.
