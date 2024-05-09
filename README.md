@@ -7,7 +7,7 @@
 - Perfectionistic in a bad way.
 
 ## 🛠️ Skills
-There are the only skill I find worth mentioning because I like them. I may know a few more but I don't like using them.
+These are the tools I'm willing to use nowadays. I may know a few more but I don't like using them.
 ### Languages & Frameworks
 ![Languages & Frameworks icons](https://skillicons.dev/icons?i=rust,svelte,html,css,wasm,js,ts,tailwind,tauri,nodejs,pnpm,nestjs,nextjs,vite&theme=dark)
 
