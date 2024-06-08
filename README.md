@@ -30,6 +30,3 @@ Feel free to contact me on Discord at [@ldgtl](https://discord.com/users/9328590
   ![Modal 2](https://github-readme-stats.vercel.app/api/top-langs/?username=bddvlpr&theme=transparent&show_icons=true&hide_border=true&layout=compact)
   ![Modal 3](https://github-readme-streak-stats.herokuapp.com/?user=bddvlpr&theme=transparent&hide_border=true)
 </details>
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; bottom: 0; left: 0; height: 100vh; object-fit: cover;  width: 130vw; opacity: 0.5; background-image: url('https://github.com/SEAPUNK/SEAPUNK/blob/master/cat-cheese.gif?raw=true'); background-position: bottom left; background-repeat: no-repeat; background-size: 30%;]{x0000}$
