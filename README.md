@@ -9,10 +9,7 @@
 ## 🛠️ Skills
 These are the tools I'm willing to use nowadays. I may know a few more but I don't like using them.
 ### Languages & Frameworks
-![Languages & Frameworks icons](https://skillicons.dev/icons?i=rust,svelte,html,css,wasm,js,ts,tailwind,tauri,nodejs,bun,pnpm,nestjs,nextjs,vite&theme=dark)
-
-### Databases & ORMs
-![Databases & ORMs icons](https://skillicons.dev/icons?i=prisma,sqlite,mongodb,mysql,postgres,redis,hibernate&theme=dark)
+![Languages & Frameworks icons](https://skillicons.dev/icons?i=rust,svelte,html,css,wasm,js,ts,tailwind,tauri,nodejs,bun,pnpm,nextjs,vite&theme=dark)
 
 ### Tools & DevOps stuff
 ![Tools & DevOps icons](https://skillicons.dev/icons?i=docker,kubernetes,nix,terraform,aws,gcp,cloudflare,workers,vercel,bash,githubactions,linux,neovim,vscode&theme=dark)
