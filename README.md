@@ -3,7 +3,7 @@
 - SvelteKit enjoyer.
 - Virtual Reality & electronics hobbyist.
 - FOSS & Linux enthusiast.
-- Consumes battery acid 24/7 while listening to music.
+- Consumes battery acid while listening to music.
 - Perfectionistic in a bad way.
 
 ## 🛠️ Skills
