@@ -13,6 +13,13 @@ These are the tools I'm willing to use nowadays. I may know a few more but I don
 ### Tools & DevOps stuff
 ![Tools & DevOps icons](https://skillicons.dev/icons?i=docker,kubernetes,nix,terraform,aws,gcp,cloudflare,workers,vercel,bash,githubactions,linux,neovim,vscode&theme=dark)
 
+## 🎯 Projects
+- [bddvlpr/resonance](https://github.com/bddvlpr/resonance): My opinionated Nix configurations and modules.
+- [bddvlpr/fidelity](https://github.com/bddvlpr/fidelity): My opinionated Nix server configurations and modules.
+- [bddvlpr/untis-ics-sync](https://github.com/bddvlpr/untis-ics-sync): Serves a calendar API (ICS) for events provided from Untis.
+- [bddvlpr/unitypkg](https://github.com/bddvlpr/unitypkg): Library and commandline for interacting with unitypackage files.
+- [nixos/nixpkgs](https://github.com/nixos/nixpkgs): Nix Packages collection and NixOS.
+
 ## 📫 Contact
 Feel free to contact me on Discord at [@ldgtl](https://discord.com/users/932859041368125532), Matrix at [@luna:bddvlpr.com](https://matrix.to/#/@luna:bddvlpr.com) or use my e-mail [contact@bddvlpr.com](mailto:contact@bddvlpr.com) although responses might be slow.
 
