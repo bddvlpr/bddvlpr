@@ -1,6 +1,6 @@
 ## ✨ About
 - Interested in high-availability structures, Nix and cryptography.
-- Virtual Reality & electronics hobbyist.
+- Virtual Reality, HAM & electronics hobbyist.
 - FOSS & Linux enthusiast.
 - Consumes battery acid while listening to music.
 - Perfectionistic in a bad way.
