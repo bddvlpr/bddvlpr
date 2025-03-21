@@ -21,7 +21,7 @@ These are the tools I'm willing to use nowadays. I may know a few more but I don
 - [nixos/nixpkgs](https://github.com/nixos/nixpkgs): Nix Packages collection and NixOS.
 
 ## 📫 Contact
-Feel free to contact me on Discord at [@ldgtl](https://discord.com/users/932859041368125532), Matrix at [@luna:bddvlpr.com](https://matrix.to/#/@luna:bddvlpr.com) or use my e-mail [contact@bddvlpr.com](mailto:contact@bddvlpr.com) although responses might be slow.
+Feel free to contact me on Discord at [@ldgtl](https://discord.com/users/932859041368125532), ~~Matrix at [@luna:bddvlpr.com](https://matrix.to/#/@luna:bddvlpr.com)~~ temporarily unavailable or use my e-mail [contact@bddvlpr.com](mailto:contact@bddvlpr.com) although responses might be slow.
 
 ## ⭐ Stats
 <details>
