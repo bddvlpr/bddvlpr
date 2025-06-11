@@ -3,7 +3,7 @@
 - Virtual Reality, HAM & electronics hobbyist.
 - FOSS & Linux enthusiast.
 - Consumes battery acid while listening to music.
-- Perfectionistic in a bad way.
+- Perfectionistic.
 
 ## 🛠️ Skills
 These are the tools I'm willing to use nowadays. I may know a few more but I don't like using them.
